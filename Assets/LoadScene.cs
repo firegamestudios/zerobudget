@@ -16,7 +16,7 @@ public class LoadScene : MonoBehaviour
     private void Awake()
     {
         saveSystemMethods = FindAnyObjectByType<SaveSystemMethods>();
-        loadingScreen = GameObject.Find("Loading Screen");
+        loadingScreen = GameObject.Find("Canvas").transform.Find("Loading Screen").gameObject;
     }
 
     private void OnTriggerEnter(Collider other)

@@ -4,15 +4,20 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    // Start is called before the first frame update
+
+    GameObject loadingScreen;
+
     void Start()
     {
-        
+       
+        Invoke("DelayStart", 0.5f);
     }
 
-    // Update is called once per frame
-    void Update()
+    IEnumerator DelayStart()
     {
-        
+        yield return new WaitForSeconds(0.3f);
+        //half a second delay for start
     }
+
+  
 }
