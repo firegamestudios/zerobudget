@@ -1,0 +1,375 @@
+fileFormatVersion: 2
+guid: 5fe47eb497ed7614c8512f8302f6bf93
+timeCreated: 1482831875
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: blue_back wheel1
+    100004: blue_back wheel2
+    100006: blue_front wheel1
+    100008: blue_front wheel2
+    100010: copper_back wheel1
+    100012: copper_back wheel2
+    100014: copper_front wheel1
+    100016: copper_front wheel2
+    100018: cyan_back wheel1
+    100020: cyan_back wheel2
+    100022: cyan_front wheel1
+    100024: cyan_front wheel2
+    100026: light blue_back wheel1
+    100028: light blue_back wheel2
+    100030: light blue_front wheel1
+    100032: light blue_front wheel2
+    100034: Line001
+    100036: low poly Car vw_blue
+    100038: low poly Car vw_copper
+    100040: low poly Car vw_cyan
+    100042: low poly Car vw_light blue
+    100044: low poly Car vw_red
+    100046: low poly Car vw_red_Back Wheel Position1
+    100048: low poly Car vw_red_Back Wheel Position2
+    100050: low poly Car vw_red_Back Wheel Rotation1
+    100052: low poly Car vw_red_Back Wheel Rotation2
+    100054: low poly Car vw_red_Direction Locator1
+    100056: low poly Car vw_red_Direction Locator2
+    100058: low poly Car vw_red_drift control
+    100060: low poly Car vw_red_Front Wheel Direction1
+    100062: low poly Car vw_red_Front Wheel Direction2
+    100064: low poly Car vw_red_Front Wheel Position1
+    100066: low poly Car vw_red_Front Wheel Position2
+    100068: low poly Car vw_red_Front Wheel Rotation1
+    100070: low poly Car vw_red_Front Wheel Rotation2
+    100072: low poly Car vw_red_Locators control
+    100074: low poly Car vw_red_VehicleControl
+    100076: object013
+    100078: red_back wheel1
+    100080: red_back wheel2
+    100082: red_front wheel1
+    100084: red_front wheel2
+    400000: //RootNode
+    400002: blue_back wheel1
+    400004: blue_back wheel2
+    400006: blue_front wheel1
+    400008: blue_front wheel2
+    400010: copper_back wheel1
+    400012: copper_back wheel2
+    400014: copper_front wheel1
+    400016: copper_front wheel2
+    400018: cyan_back wheel1
+    400020: cyan_back wheel2
+    400022: cyan_front wheel1
+    400024: cyan_front wheel2
+    400026: light blue_back wheel1
+    400028: light blue_back wheel2
+    400030: light blue_front wheel1
+    400032: light blue_front wheel2
+    400034: Line001
+    400036: low poly Car vw_blue
+    400038: low poly Car vw_copper
+    400040: low poly Car vw_cyan
+    400042: low poly Car vw_light blue
+    400044: low poly Car vw_red
+    400046: low poly Car vw_red_Back Wheel Position1
+    400048: low poly Car vw_red_Back Wheel Position2
+    400050: low poly Car vw_red_Back Wheel Rotation1
+    400052: low poly Car vw_red_Back Wheel Rotation2
+    400054: low poly Car vw_red_Direction Locator1
+    400056: low poly Car vw_red_Direction Locator2
+    400058: low poly Car vw_red_drift control
+    400060: low poly Car vw_red_Front Wheel Direction1
+    400062: low poly Car vw_red_Front Wheel Direction2
+    400064: low poly Car vw_red_Front Wheel Position1
+    400066: low poly Car vw_red_Front Wheel Position2
+    400068: low poly Car vw_red_Front Wheel Rotation1
+    400070: low poly Car vw_red_Front Wheel Rotation2
+    400072: low poly Car vw_red_Locators control
+    400074: low poly Car vw_red_VehicleControl
+    400076: object013
+    400078: red_back wheel1
+    400080: red_back wheel2
+    400082: red_front wheel1
+    400084: red_front wheel2
+    2300000: blue_back wheel1
+    2300002: blue_back wheel2
+    2300004: blue_front wheel1
+    2300006: blue_front wheel2
+    2300008: copper_back wheel1
+    2300010: copper_back wheel2
+    2300012: copper_front wheel1
+    2300014: copper_front wheel2
+    2300016: cyan_back wheel1
+    2300018: cyan_back wheel2
+    2300020: cyan_front wheel1
+    2300022: cyan_front wheel2
+    2300024: light blue_back wheel1
+    2300026: light blue_back wheel2
+    2300028: light blue_front wheel1
+    2300030: light blue_front wheel2
+    2300032: low poly Car vw_blue
+    2300034: low poly Car vw_copper
+    2300036: low poly Car vw_cyan
+    2300038: low poly Car vw_light blue
+    2300040: low poly Car vw_red
+    2300042: object013
+    2300044: red_back wheel1
+    2300046: red_back wheel2
+    2300048: red_front wheel1
+    2300050: red_front wheel2
+    3300000: blue_back wheel1
+    3300002: blue_back wheel2
+    3300004: blue_front wheel1
+    3300006: blue_front wheel2
+    3300008: copper_back wheel1
+    3300010: copper_back wheel2
+    3300012: copper_front wheel1
+    3300014: copper_front wheel2
+    3300016: cyan_back wheel1
+    3300018: cyan_back wheel2
+    3300020: cyan_front wheel1
+    3300022: cyan_front wheel2
+    3300024: light blue_back wheel1
+    3300026: light blue_back wheel2
+    3300028: light blue_front wheel1
+    3300030: light blue_front wheel2
+    3300032: low poly Car vw_blue
+    3300034: low poly Car vw_copper
+    3300036: low poly Car vw_cyan
+    3300038: low poly Car vw_light blue
+    3300040: low poly Car vw_red
+    3300042: object013
+    3300044: red_back wheel1
+    3300046: red_back wheel2
+    3300048: red_front wheel1
+    3300050: red_front wheel2
+    4300000: object013
+    4300002: low poly Car vw_light blue
+    4300004: low poly Car vw_cyan
+    4300006: low poly Car vw_blue
+    4300008: low poly Car vw_copper
+    4300010: copper_front wheel1
+    4300012: copper_front wheel2
+    4300014: copper_back wheel1
+    4300016: copper_back wheel2
+    4300018: blue_front wheel1
+    4300020: blue_front wheel2
+    4300022: blue_back wheel2
+    4300024: blue_back wheel1
+    4300026: cyan_back wheel1
+    4300028: cyan_back wheel2
+    4300030: cyan_front wheel1
+    4300032: cyan_front wheel2
+    4300034: light blue_front wheel1
+    4300036: light blue_front wheel2
+    4300038: light blue_back wheel1
+    4300040: light blue_back wheel2
+    4300042: low poly Car vw_red
+    4300044: red_front wheel1
+    4300046: red_front wheel2
+    4300048: red_back wheel1
+    4300050: red_back wheel2
+    7400000: test only just for checking
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: test only just for checking
+      takeName: test only just for checking
+      firstFrame: 0
+      lastFrame: 1000
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: blue_back wheel1
+        weight: 1
+      - path: blue_back wheel2
+        weight: 1
+      - path: blue_front wheel1
+        weight: 1
+      - path: blue_front wheel2
+        weight: 1
+      - path: copper_back wheel1
+        weight: 1
+      - path: copper_back wheel2
+        weight: 1
+      - path: copper_front wheel1
+        weight: 1
+      - path: copper_front wheel2
+        weight: 1
+      - path: cyan_back wheel1
+        weight: 1
+      - path: cyan_back wheel2
+        weight: 1
+      - path: cyan_front wheel1
+        weight: 1
+      - path: cyan_front wheel2
+        weight: 1
+      - path: light blue_back wheel1
+        weight: 1
+      - path: light blue_back wheel2
+        weight: 1
+      - path: light blue_front wheel1
+        weight: 1
+      - path: light blue_front wheel2
+        weight: 1
+      - path: Line001
+        weight: 1
+      - path: low poly Car vw_blue
+        weight: 1
+      - path: low poly Car vw_copper
+        weight: 1
+      - path: low poly Car vw_cyan
+        weight: 1
+      - path: low poly Car vw_light blue
+        weight: 1
+      - path: low poly Car vw_red_VehicleControl
+        weight: 1
+      - path: low poly Car vw_red_VehicleControl/low poly Car vw_red_drift control
+        weight: 1
+      - path: low poly Car vw_red_VehicleControl/low poly Car vw_red_drift control/low
+          poly Car vw_red
+        weight: 1
+      - path: low poly Car vw_red_VehicleControl/low poly Car vw_red_drift control/low
+          poly Car vw_red_Back Wheel Position1
+        weight: 1
+      - path: low poly Car vw_red_VehicleControl/low poly Car vw_red_drift control/low
+          poly Car vw_red_Back Wheel Position1/low poly Car vw_red_Back Wheel Rotation1
+        weight: 1
+      - path: low poly Car vw_red_VehicleControl/low poly Car vw_red_drift control/low
+          poly Car vw_red_Back Wheel Position1/low poly Car vw_red_Back Wheel Rotation1/red_back
+          wheel1
+        weight: 1
+      - path: low poly Car vw_red_VehicleControl/low poly Car vw_red_drift control/low
+          poly Car vw_red_Back Wheel Position2
+        weight: 1
+      - path: low poly Car vw_red_VehicleControl/low poly Car vw_red_drift control/low
+          poly Car vw_red_Back Wheel Position2/low poly Car vw_red_Back Wheel Rotation2
+        weight: 1
+      - path: low poly Car vw_red_VehicleControl/low poly Car vw_red_drift control/low
+          poly Car vw_red_Back Wheel Position2/low poly Car vw_red_Back Wheel Rotation2/red_back
+          wheel2
+        weight: 1
+      - path: low poly Car vw_red_VehicleControl/low poly Car vw_red_drift control/low
+          poly Car vw_red_Front Wheel Position1
+        weight: 1
+      - path: low poly Car vw_red_VehicleControl/low poly Car vw_red_drift control/low
+          poly Car vw_red_Front Wheel Position1/low poly Car vw_red_Front Wheel Direction1
+        weight: 1
+      - path: low poly Car vw_red_VehicleControl/low poly Car vw_red_drift control/low
+          poly Car vw_red_Front Wheel Position1/low poly Car vw_red_Front Wheel Direction1/low
+          poly Car vw_red_Front Wheel Rotation1
+        weight: 1
+      - path: low poly Car vw_red_VehicleControl/low poly Car vw_red_drift control/low
+          poly Car vw_red_Front Wheel Position1/low poly Car vw_red_Front Wheel Direction1/low
+          poly Car vw_red_Front Wheel Rotation1/red_front wheel1
+        weight: 1
+      - path: low poly Car vw_red_VehicleControl/low poly Car vw_red_drift control/low
+          poly Car vw_red_Front Wheel Position2
+        weight: 1
+      - path: low poly Car vw_red_VehicleControl/low poly Car vw_red_drift control/low
+          poly Car vw_red_Front Wheel Position2/low poly Car vw_red_Front Wheel Direction2
+        weight: 1
+      - path: low poly Car vw_red_VehicleControl/low poly Car vw_red_drift control/low
+          poly Car vw_red_Front Wheel Position2/low poly Car vw_red_Front Wheel Direction2/low
+          poly Car vw_red_Front Wheel Rotation2
+        weight: 1
+      - path: low poly Car vw_red_VehicleControl/low poly Car vw_red_drift control/low
+          poly Car vw_red_Front Wheel Position2/low poly Car vw_red_Front Wheel Direction2/low
+          poly Car vw_red_Front Wheel Rotation2/red_front wheel2
+        weight: 1
+      - path: low poly Car vw_red_VehicleControl/low poly Car vw_red_Locators control
+        weight: 1
+      - path: low poly Car vw_red_VehicleControl/low poly Car vw_red_Locators control/low
+          poly Car vw_red_Direction Locator1
+        weight: 1
+      - path: low poly Car vw_red_VehicleControl/low poly Car vw_red_Locators control/low
+          poly Car vw_red_Direction Locator2
+        weight: 1
+      - path: object013
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

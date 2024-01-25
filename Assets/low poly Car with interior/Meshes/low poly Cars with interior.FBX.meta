@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: c0d926278820f6a42a4aff49f0b3d1af
+timeCreated: 1482823272
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: low poly Car vw_blue
+    100002: low poly Car vw_copper
+    100004: low poly Car vw_cyan
+    100006: low poly Car vw_light blue
+    100008: low poly Car vw_red
+    100010: //RootNode
+    100012: blue_back wheel1
+    100014: blue_back wheel2
+    100016: blue_front wheel1
+    100018: blue_front wheel2
+    100020: copper_back wheel1
+    100022: copper_back wheel2
+    100024: copper_front wheel1
+    100026: copper_front wheel2
+    100028: cyan_back wheel1
+    100030: cyan_back wheel2
+    100032: cyan_front wheel1
+    100034: cyan_front wheel2
+    100036: light blue_back wheel1
+    100038: light blue_back wheel2
+    100040: light blue_front wheel1
+    100042: light blue_front wheel2
+    100044: red_back wheel1
+    100046: red_back wheel2
+    100048: red_front wheel1
+    100050: red_front wheel2
+    400000: low poly Car vw_blue
+    400002: low poly Car vw_copper
+    400004: low poly Car vw_cyan
+    400006: low poly Car vw_light blue
+    400008: low poly Car vw_red
+    400010: //RootNode
+    400012: blue_back wheel1
+    400014: blue_back wheel2
+    400016: blue_front wheel1
+    400018: blue_front wheel2
+    400020: copper_back wheel1
+    400022: copper_back wheel2
+    400024: copper_front wheel1
+    400026: copper_front wheel2
+    400028: cyan_back wheel1
+    400030: cyan_back wheel2
+    400032: cyan_front wheel1
+    400034: cyan_front wheel2
+    400036: light blue_back wheel1
+    400038: light blue_back wheel2
+    400040: light blue_front wheel1
+    400042: light blue_front wheel2
+    400044: red_back wheel1
+    400046: red_back wheel2
+    400048: red_front wheel1
+    400050: red_front wheel2
+    2300000: low poly Car vw_blue
+    2300002: low poly Car vw_copper
+    2300004: low poly Car vw_cyan
+    2300006: low poly Car vw_light blue
+    2300008: low poly Car vw_red
+    2300010: blue_back wheel1
+    2300012: blue_back wheel2
+    2300014: blue_front wheel1
+    2300016: blue_front wheel2
+    2300018: copper_back wheel1
+    2300020: copper_back wheel2
+    2300022: copper_front wheel1
+    2300024: copper_front wheel2
+    2300026: cyan_back wheel1
+    2300028: cyan_back wheel2
+    2300030: cyan_front wheel1
+    2300032: cyan_front wheel2
+    2300034: light blue_back wheel1
+    2300036: light blue_back wheel2
+    2300038: light blue_front wheel1
+    2300040: light blue_front wheel2
+    2300042: red_back wheel1
+    2300044: red_back wheel2
+    2300046: red_front wheel1
+    2300048: red_front wheel2
+    3300000: low poly Car vw_blue
+    3300002: low poly Car vw_copper
+    3300004: low poly Car vw_cyan
+    3300006: low poly Car vw_light blue
+    3300008: low poly Car vw_red
+    3300010: blue_back wheel1
+    3300012: blue_back wheel2
+    3300014: blue_front wheel1
+    3300016: blue_front wheel2
+    3300018: copper_back wheel1
+    3300020: copper_back wheel2
+    3300022: copper_front wheel1
+    3300024: copper_front wheel2
+    3300026: cyan_back wheel1
+    3300028: cyan_back wheel2
+    3300030: cyan_front wheel1
+    3300032: cyan_front wheel2
+    3300034: light blue_back wheel1
+    3300036: light blue_back wheel2
+    3300038: light blue_front wheel1
+    3300040: light blue_front wheel2
+    3300042: red_back wheel1
+    3300044: red_back wheel2
+    3300046: red_front wheel1
+    3300048: red_front wheel2
+    4300000: low poly Car vw_red
+    4300002: low poly Car vw_light blue
+    4300004: low poly Car vw_cyan
+    4300006: low poly Car vw_blue
+    4300008: low poly Car vw_copper
+    4300010: copper_front wheel1
+    4300012: copper_front wheel2
+    4300014: copper_back wheel1
+    4300016: copper_back wheel2
+    4300018: blue_front wheel1
+    4300020: blue_front wheel2
+    4300022: blue_back wheel2
+    4300024: blue_back wheel1
+    4300026: cyan_back wheel1
+    4300028: cyan_back wheel2
+    4300030: cyan_front wheel1
+    4300032: cyan_front wheel2
+    4300034: light blue_front wheel1
+    4300036: light blue_front wheel2
+    4300038: red_front wheel1
+    4300040: red_front wheel2
+    4300042: light blue_back wheel1
+    4300044: light blue_back wheel2
+    4300046: red_back wheel1
+    4300048: red_back wheel2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
